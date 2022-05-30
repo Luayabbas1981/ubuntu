@@ -16,7 +16,7 @@ section >div{
     height: 100px;
     border-style: solid;
     border-width: 30px;
-   border-color: #ff8800 transparent transparent transparent;
+   border-color: #ff9100 transparent transparent transparent;
     border-radius: 50%;
     animation: move 2s  linear reverse;
 
