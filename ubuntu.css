@@ -1,6 +1,6 @@
 body{
          
-    background-color: rgb(46, 45, 45); 
+    background-color: rgb(13, 13, 13); 
     
 }
 section{
@@ -18,7 +18,7 @@ section >div{
     border-width: 30px;
    border-color: #ff9100 transparent transparent transparent;
     border-radius: 50%;
-    animation: move 2s  linear reverse;
+    animation: move 2s linear reverse;
 
 }
 .one {
@@ -39,7 +39,7 @@ left: 50%;
 transform: translate(-50%);
 width: 32px;
 height: 15px;
-background-color: rgb(46, 45, 45);
+background-color:rgb(13, 13, 13);
 border-bottom-left-radius: 50% 100%;
 border-bottom-right-radius: 50% 100%;
 } 
