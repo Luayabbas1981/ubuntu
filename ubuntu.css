@@ -1,6 +1,7 @@
 body{
          
-    background-color: rgb(13, 13, 13); 
+    background-color: #1f1f1f; 
+    overflow: hidden;
     
 }
 section{
